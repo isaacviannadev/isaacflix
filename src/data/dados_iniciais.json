@@ -5,13 +5,13 @@
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Formação de Front End",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Melhores cenas de Sniper no BF4! #SeguraEssa",
+          "url": "https://www.youtube.com/watch?v=uUhQr5o7eB8"
         },
         {
           "titulo": "SEO com React",
@@ -125,17 +125,17 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Meus Streamings de Games",
+        "url": "#"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "GG Fast de Nature",
+          "url": "https://www.youtube.com/watch?v=nK_8sNBIp10"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Titan Fall - Cenas de um Noob",
+          "url": "https://www.youtube.com/watch?v=RzmxyHKl-fQ"
         },
         {
           "titulo": "God of War 4",
